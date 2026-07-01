@@ -30,4 +30,3 @@ Our flagship remote control application. CentraCaster allows developers and powe
 ### 🌐 Connect with Us
 *   **Website:** [centraqube.tech](https://centraqube.tech)
 *   **Twitter / X:** [@centraqube](https://x.com/centraqube)
-*   **Developer Email:** kavindugunasena@gmail.com
