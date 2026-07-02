@@ -3,20 +3,7 @@
 
 > Concepts, Compiled.
 
-Welcome to **Centraqube**. We are an independent software development studio building secure, local-first utility apps and developer tools. 
-
-We believe that remote control, system monitoring, and network utilities should be fast, private, and beautiful.
-
----
-
-### 🛠️ Our Tech Stack
-We build high-performance, secure, and modern tools using a robust stack:
-
-*   **Android:** Kotlin, Jetpack Compose, Ktor Client (Native mobile apps)
-*   **Go & Python:** High-efficiency desktop agents, terminal integration, and automation scripts
-*   **Networking:** WebSockets, mTLS, SSH, and secure tunnelling protocols
-
----
+Welcome to **Centraqube**. We are an independent software development studio building secure, local-first utility apps and developer tools
 
 ### 🚀 Our Upcoming Projects
 
@@ -26,7 +13,3 @@ Our flagship remote control application. CentraCaster allows developers and powe
 *   **Security:** Local-first communication, AES-256 KeyStore encryption, and mTLS support.
 
 ---
-
-### 🌐 Connect with Us
-*   **Website:** [centraqube.tech](https://centraqube.tech)
-*   **Twitter / X:** [@centraqube](https://x.com/centraqube)
